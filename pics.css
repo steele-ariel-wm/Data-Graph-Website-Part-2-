@@ -1,0 +1,13 @@
+#maindiv {
+    line-height: 50px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    text-align: justify;
+    width: 940px;
+    background-color: #84A98C;
+    align-self: center;
+}
+img {
+    width: 250px;
+    height: 250px;
+}
